@@ -1,34 +1,17 @@
 # schedule
 
-## Project setup
+## 说明
+> 前端部分（开发中）
+> 打算设计一款根据艾宾浩斯遗忘曲线进行辅助背诵的应用
+
+## 开启项目并运行
 ```
 npm install
-```
-
-### Compiles and hot-reloads for development
-```
 npm run serve
 ```
-
-### Compiles and minifies for production
+### 项目打包
 ```
 npm run build
 ```
 
-### Run your unit tests
-```
-npm run test:unit
-```
 
-### Run your end-to-end tests
-```
-npm run test:e2e
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
